@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Servicios Médicos</title>
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="inicio.html">Inicio</a></li>
+<li><a href="habitos.html">Hábitos</a></li>
+<li><a href="prevencion.html">Prevención</a></li>
+<li><a href="servicios.html">Servicios</a></li>
+<li><a href="contacto.html">Contacto</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h1>Servicios Médicos</h1>
+<ul>
+<li>Consultas médicas</li>
+<li>Orientación nutricional</li>
+<li>Atención psicológica</li>
+<li>Charlas de promoción de salud</li>
+</ul>
+<img src="imagenes/servicios.svg" alt="Servicios médicos">
+</main>
+<footer>
+<p>&copy; 2025 Salud Total</p>
+</footer>
+</body>
+</html>

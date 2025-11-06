@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hábitos Saludables</title>
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="inicio.html">Inicio</a></li>
+<li><a href="habitos.html">Hábitos</a></li>
+<li><a href="prevencion.html">Prevención</a></li>
+<li><a href="servicios.html">Servicios</a></li>
+<li><a href="contacto.html">Contacto</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h1>Hábitos Saludables</h1>
+<p>Comer frutas y verduras, dormir bien y hacer ejercicio son claves para la salud.</p>
+<img src="imagenes/habitos.svg" alt="Hábitos saludables">
+</main>
+<footer>
+<p>&copy; 2025 Salud Total</p>
+</footer>
+</body>
+</html>

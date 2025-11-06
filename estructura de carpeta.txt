@@ -1,0 +1,18 @@
+salud-total/
+├─ index.html
+├─ inicio.html
+├─ habitos.html
+├─ prevencion.html
+├─ servicios.html
+├─ contacto.html
+├─ css/
+│  ├─ portada.css
+│  └─ estilo.css
+├─ imágenes /
+│  ├─ logos svg
+│  ├─ salud .svg
+│  ├─ habitos .svg
+│  ├─ prevencion  .svg
+│  └─ servicios .svg
+└─ video/
+   └─ README.txt  ← Instrucciones para agregar video

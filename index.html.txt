@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Salud Total - Portada</title>
+<link rel="stylesheet" href="css/portada.css">
+</head>
+<body>
+<div class="portada">
+  <div class="contenido">
+    <img src="imagenes/logo.svg" alt="Logo Salud Total" class="logo">
+    <h1>Salud Total</h1>
+    <p>Tu bienestar es nuestra prioridad</p>
+    <a href="inicio.html" class="boton">Entrar al sitio</a>
+  </div>
+</div>
+</body>
+</html>

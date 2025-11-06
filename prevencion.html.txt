@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prevención</title>
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="inicio.html">Inicio</a></li>
+<li><a href="habitos.html">Hábitos</a></li>
+<li><a href="prevencion.html">Prevención</a></li>
+<li><a href="servicios.html">Servicios</a></li>
+<li><a href="contacto.html">Contacto</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h1>Prevención de Enfermedades</h1>
+<p>Vacunarse y realizar chequeos médicos ayuda a prevenir enfermedades.</p>
+<img src="imagenes/prevencion.svg" alt="Prevención">
+</main>
+<footer>
+<p>&copy; 2025 Salud Total</p>
+</footer>
+</body>
+</html>

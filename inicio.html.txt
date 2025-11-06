@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Salud Total - Inicio</title>
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<header>
+<nav>
+<ul>
+<li><a href="inicio.html">Inicio</a></li>
+<li><a href="habitos.html">Hábitos</a></li>
+<li><a href="prevencion.html">Prevención</a></li>
+<li><a href="servicios.html">Servicios</a></li>
+<li><a href="contacto.html">Contacto</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<h1>Bienvenido a Salud Total</h1>
+<p>Promovemos la salud integral, la prevención y los buenos hábitos.</p>
+<img src="imagenes/salud.svg" alt="Bienestar y salud">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5qap5aO4i9A" title="Video salud" frameborder="0" allowfullscreen></iframe>
+</main>
+<footer>
+<p>&copy; 2025 Salud Total</p>
+</footer>
+</body>
+</html>
